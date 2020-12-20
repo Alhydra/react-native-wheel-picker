@@ -1103,6 +1103,13 @@
     pouchdb-collections "^1.0.1"
     tiny-queue "^0.2.1"
 
+"@gregfrench/react-native-wheel-picker@^1.2.12":
+  version "1.2.12"
+  resolved "https://registry.yarnpkg.com/@gregfrench/react-native-wheel-picker/-/react-native-wheel-picker-1.2.12.tgz#6722801219a5ead80270cd585a2409c3d8a837da"
+  integrity sha512-AmKDyMsI6h4yO2SSiCDDpz63xNaB/RHS5Db4f9ZLW/+9Gtyq6uy3u07ixKxojYZCtReEYVshR3sxoZf9Z4OBCw==
+  dependencies:
+    "@react-native-picker/picker" "^1.9.4"
+
 "@hapi/address@2.x.x":
   version "2.1.4"
   resolved "https://registry.yarnpkg.com/@hapi/address/-/address-2.1.4.tgz#5d67ed43f3fd41a69d4b9ff7b56e7c0d1d0a81e5"
@@ -1320,6 +1327,11 @@
     strip-ansi "^5.2.0"
     sudo-prompt "^9.0.0"
     wcwidth "^1.0.1"
+
+"@react-native-picker/picker@^1.9.4":
+  version "1.9.7"
+  resolved "https://registry.yarnpkg.com/@react-native-picker/picker/-/picker-1.9.7.tgz#1230f1b87dcb4114778b4219de1b39f5e560bbf8"
+  integrity sha512-hwIx1SiqryyYFRFj/3renuU+YhZKW07Mr4TDeMRLSaev6TWQR0IfuUfwQj3H4aBrPt86Vi3buSSuQq2mrU+iAw==
 
 "@types/istanbul-lib-coverage@*", "@types/istanbul-lib-coverage@^2.0.0":
   version "2.0.3"
